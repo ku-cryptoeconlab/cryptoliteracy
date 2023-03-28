@@ -1,0 +1,128 @@
+1. Who confirms that a Bitcoin transfer is valid?
+
+Anyone who runs software that implements the Bitcoin protocol (1) 
+Only Bitcoin developers (0)
+Only those who receive a license from a state or regulatory agency (0) 
+Only those who own bitcoin (0) 
+Don't know (0) 
+
+2. Why is it difficult to alter older transactions in a proof-of-work protocol?
+
+Older transactions are encrypted while the most recent transaction is unencrypted (0) 
+Modifying older transactions requires significant computational resources (1) 
+It is impossible to modify transactions once they are written to the blockchain (0) 
+Older transactions are not stored on as many nodes (0) 
+Don't know (0) 
+
+3. What is the most likely effect on the market price of a particular cryptocurrency when a user unexpectedly forgets or cannot access the private key that controls a significant amount of cryptocurrency? 
+
+The market price will go up (1) 
+The market price will go down (0) 
+The market price will not change (0) 
+Don't know (0) 
+
+4. Which method of storing a private key is most vulnerable to a cyber-attack that will steal user funds? 
+
+Recording a private key on a piece of paper (0) 
+Storing a private key on a hot wallet or browser extension wallet (1) 
+Storing a private key on a cold wallet or hardware wallet (0) 
+Memorizing a private key (0) 
+Don't know (0) 
+ 
+5. Who can access funds in a non-custodial wallet?
+
+The operator of a centralized exchange (0)
+The operator of a decentralized exchange (0)
+Only the individual who knows the private key (1)
+The software developers of the non-custodial wallet (0)
+Don't know  (0)
+
+6. What is the formula for calculating a cryptocurrency's market capitalization?
+
+Cryptocurrency price multiplied by the cryptocurrency's circulating supply (1)
+Cryptocurrency price multiplied by the cryptocurrency's maximum possible supply as authorized by the protocol (0)
+Cryptocurrency volatility multiplied by the cryptocurrency price (0)
+Cryptocurrency price divided by the cryptocurrency's circulating supply (0)
+Don't know (0)
+
+7. How is cryptocurrency distributed under a fair launch strategy?
+
+The cryptocurrency creators assign it to themselves before others have the opportunity to acquire it (0)
+Everyone has the same opportunity to acquire the cryptocurrency (1)
+Government regulations require that only certain individuals can acquire the cryptocurrency (0)
+The cryptocurrency protocol only permits certain individuals to acquire cryptocurrency (0)
+Don't know (0)
+
+8. What is the term that describes a method of consensus in which individuals who pledge their own cryptocurrency funds may lose them if their version of the cryptocurrency’s ledger of transactions is rejected by the network?
+
+Proof-of-work (0)
+Proof-of-stake (1)
+Proof-of-authority (0)
+Proof-of-history (0)
+Don't know (0)
+
+9. What is a blockchain?
+
+A time-stamped record of transactions that cannot be modified or deleted without the consensus of the network participants (1)
+A decentralized database of transactions that can only be used for financial services (0)
+A record of transactions stored in a time-stamped sequence of files, which all contain the same information (0)
+A decentralized database of transactions that can only be accessed at certain times set by the network participants (0)
+Don’t know (0)
+
+10. What is a seed phrase in the context of a hardware wallet?
+
+A sequence of 12 – 24 words which a wallet uses to generate private and public keys (1)
+One word that a wallet uses to generate private and public keys (0)
+The message contained in a blockchain’s genesis block (0)
+The password used when accessing a centralized cryptocurrency exchange (0)
+Don't know (0)
+
+11. Which statement about bitcoin is true?
+
+The rate of bitcoin production is decreasing over time (1)
+The rate of bitcoin production is increasing over time (0)
+The rate of bitcoin production is constant over time (0)
+The supply of bitcoin is fixed and no more bitcoin will be created in the future (0)
+Don't know (0) 
+
+12. How do stablecoin issuers typically claim to maintain a stablecoin’s value?
+
+They claim that the stablecoin’s protocol cannot be changed (0)
+They claim that the stablecoin holders can exchange the stablecoin for the underlying asset (e.g. fiat currency) (1)
+They claim that the supply of the stablecoin cannot be changed (0)
+They claim that the stablecoin’s value is guaranteed by the stablecoin holders (0)
+Don't know (0)
+
+13. Which of the following statements is true about central bank digital currencies (CBDC)?
+
+CBDCs are digital currencies used only between different countries’ central banks (0) 
+CBDCs are physical currencies issued by central banks, like bank notes or coins (0)
+CBDCs are digital currencies issued and guaranteed/backed by central banks (1)
+CBDCs are investment funds that guarantee a return (0)
+Don’t know (0)
+
+14. Which of the following statements is true about Bitcoin and Ethereum?
+
+Both types of cryptocurrencies use a centralized server to process and verify transactions (0)
+Both types of cryptocurrencies use a peer-to-peer network to process and verify transactions (1)
+Both types of cryptocurrency transactions are processed and verified by a consortium of financial institutions (0)
+Both types of cryptocurrency transactions are processed and verified by a group of government agencies (0)
+Don’t know (0)
+
+15. Which of the following factors is likely to have the largest effect on the value of transaction fees in the Bitcoin network?
+
+The current demand for transaction processing on the Bitcoin network (1)
+The amount of Bitcoin sent in a transaction (0)
+The geographic location of the sender (0)
+Bitcoin transaction fees do not change (0)
+Don’t know (0)
+
+16. Which of the following statements best describes the nature of Bitcoin transactions?
+
+Transactions are always anonymous and cannot be traced back to the sender (0)
+Transactions are anonymous only if they are signed by a hardware wallet (0)
+Transactions are usually anonymous, but it may be possible to trace them back to the sender through blockchain analysis and interactions in the real-world (1)
+Transactions must include the sender’s country of origin in order to be validated (0)
+Don’t know (0)
+
+cryptoliteracy-testbank © 2023 by Michael Jones is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
